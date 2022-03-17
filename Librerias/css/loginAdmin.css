@@ -1,0 +1,22 @@
+body {
+    /*background-color: #41C7D0;*/
+    
+    background-image: url("../../images/cblanco.jpg");
+
+    background-size: 350px 250px;
+}
+
+
+a {
+    font-style:normal;
+  font-family: inherit;
+}
+
+h5 {
+    text-align: center;
+    font-style:normal;
+  font-family:inherit;
+}
+.admin{
+    background-color: #D7F8FE;
+}

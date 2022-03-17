@@ -1,0 +1,31 @@
+body {
+    /*background-color: #41C7D0;*/
+    background-image: url("../../images/cblanco.jpg");
+
+    /*background-size: 100% auto;*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+
+}
+
+p.monto {
+    color: dodgerblue;
+
+}
+
+div.monto {
+    color: chocolate;
+}
+
+nav.fondonav {
+    background-color: #edefee;
+    /*#e5e7e6;*/
+
+}
+
+.altodiv {
+    height: 34px;
+
+}

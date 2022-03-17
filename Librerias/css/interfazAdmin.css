@@ -1,0 +1,61 @@
+body {
+    /*background-color: #41C7D0;*/
+    background-image: url("../../images/hexagonosBlancos.jpg");
+
+    /*background-size: 350px 250px;*/
+    /* background-size: auto 100%;*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+
+}
+
+a {
+    font-style: normal;
+    font-family: inherit;
+}
+
+tr {
+
+    font-style: normal;
+    font-family: inherit;
+}
+
+th {
+
+    font-style: normal;
+    font-family: inherit;
+}
+
+div.lateralMenu {
+    /*margin-top: 3.5px;*/
+    /* max-width: 3.5px;
+    min-width: 3.5px;*/
+    /* background-color: white;*/
+    /* border: black 1px solid;*/
+    /* position: static;*/
+    /* top: 2px;*/
+    /*left: 40px; top: 40px;*/
+    /*left: 0px;
+  border: 3px solid #73AD21;*/
+
+}
+
+div.acomodo {
+    /*right: 3.5rem;*/
+    /* max-width: 3.5rem;
+    min-width: 3.5rem;*/
+    /*margin-right: 3.5rem;*/
+    /* margin-left: 3.5rem;*/
+    /*  margin-left: 15rem;*/
+    /*position: relative;
+  left: 3rem;*/
+    /*border: 3px solid #73AD21;*/
+}
+
+div.encabezado {
+    position: sticky;
+    margin-top: 0rem;
+    /*margin-left: 3.5rem;*/
+}

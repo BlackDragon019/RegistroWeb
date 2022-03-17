@@ -1,0 +1,28 @@
+body {
+    /*background-color: #41C7D0;*/
+    background-image: url("../../images/cblanco.jpg");
+    background-size: 350px 250px;
+
+}
+
+label {
+    color: black;
+    font-style: normal;
+    font-family: inherit;
+    font-size: 12;
+}
+
+.color1 {
+    color: blue;
+    font-style: normal;
+    font-family: inherit;
+    font-size: 12;
+}
+
+div.grosor1 {
+    border-top: 1px solid #918c97/*#dadfe3*/;
+    border-right: 1px solid #918c97;
+    border-bottom: 1px solid #918c97;
+    border-left: 1px solid #918c97;
+
+}

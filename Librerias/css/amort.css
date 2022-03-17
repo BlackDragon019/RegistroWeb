@@ -1,0 +1,95 @@
+a {
+    font-style: normal;
+    font-family: inherit;
+}
+
+tr {
+
+    font-style: normal;
+    font-family: inherit;
+}
+
+th {
+
+    font-style: normal;
+    font-family: inherit;
+}
+
+span {
+    font-style: normal;
+    font-family: inherit;
+}
+
+body {
+      background-image: url("../../images/hexagonosBlancos.jpg");
+
+    /*background-size: 350px 250px;*/
+    /* background-size: auto 100%;*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+}
+
+div.fondodiv {
+
+    background: #d9eeef;
+}
+
+div.fondodiv2 {
+
+    background: red;
+    font-style: normal;
+    font-family: serif;
+    color: white;
+
+}
+
+
+table.lineas {
+    border:
+        #1883af 5px solid;
+}
+
+td,
+th {
+    border: black 1px solid;
+}
+
+div.grosor1{
+      border-top: 5px solid #1883af;
+  border-right: 5px solid #1883af;
+  border-bottom: 5px solid #1883af;
+  border-left: 5px solid #1883af;
+    min-width: 200px;
+}
+
+span.etiqueta {
+    background: yellow;
+    color: black;
+
+}
+
+span.titulo1 {
+    text-decoration: underline;
+    font-weight: 900;
+    
+}
+
+span.cliente1 {
+    font-weight: 900;
+}
+span.cliente2 {
+    font-weight: 900;
+    color: blue;
+}
+
+span.general1 {
+    color: black;
+    font-weight: 500;
+}
+
+span.general2 {
+    color: blue;
+    font-weight: 500;
+}
