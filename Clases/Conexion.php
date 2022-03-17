@@ -7,11 +7,6 @@
             $password = "ad";
             $base = "empleoamazon";
             
-            //$servidor = "localhost:3307";
-            /*
-			$usuario = "admin";
-			$password = "adminfondos";*/
-            
             
             $conexion = mysqli_connect($servidor,$usuario,$password,$base);
             $conexion->set_charset('utf8');
